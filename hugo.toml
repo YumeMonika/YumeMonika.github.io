@@ -1,6 +1,6 @@
 locale = 'en-us'
 title = 'Yume.Monika'
-theme = "void"
+theme = "hugo-theme-void-main"
 baseURL = 'https://YumeMonika.github.io/'
 
 
