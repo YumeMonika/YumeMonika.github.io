@@ -1,5 +1,5 @@
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Yume.Monika'
 theme = "void"
 baseURL = 'https://YumeMonika.github.io/'
 
