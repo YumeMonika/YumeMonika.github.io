@@ -1,11 +1,7 @@
-baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "void"
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Your Site Title'
-theme = "void"
+baseURL = 'https://YumeMonika.github.io/'
 
 # Social media links
 [params]
